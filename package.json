@@ -1,9 +1,9 @@
 {
-  "name": "cordova-plugin-phonedialer",
+  "name": "PhoneGap-ios-PhoneDialer",
   "version": "0.2.0",
   "description": "Launch your app by using this URL:  mycoolapp://, you can add a path and even pass params like this: mycoolerapp://somepath?foo=bar",
   "cordova": {
-    "id": "cordova-plugin-phonedialer",
+    "id": "com.phonegap.core.phonedialer",
     "platforms": [
       "ios"
     ]
